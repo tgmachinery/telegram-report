@@ -27,7 +27,7 @@ https://t.me/pysmart
 
 # requirements:
 
-⚙️ compatible pc
+⚙️ compatible pc and Mac
 
 ⚙️ app sessions 
 
