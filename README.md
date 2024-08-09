@@ -25,7 +25,7 @@ You’re free to message me for full guide!
 TEAM GROUP 👇
 https://t.me/pysmart
 
-VERSION 3.0 is also processing
+VERSION 3.0.0 is also processing
 
 
 # requirements:
